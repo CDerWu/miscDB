@@ -1,0 +1,9 @@
+{
+  "name": "miscDB",
+  "version": "2.0.0",
+  "description": "Creating a NoSQL-like DB by using JSON",
+  "main": "lib/index.js",
+  "author": {
+    "name": "CDer Wu"
+  }
+}
